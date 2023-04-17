@@ -19,10 +19,9 @@ Here are some ideas to get you started:
 </h3>
 
 <!-- Typing SVG - https://github.com/DenverCoder1/readme-typing-svg -->
-<!-- Typing SVG Fast Demo - https://readme-typing-svg.herokuapp.com/demo/ -->
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=e65e2a&width=380&height=45&lines=Full+Stack+web+developer;Self-taught+Code+Designer;Always+learning+new+things">
-</p>
+<!-- Typing SVG Fast Demo - https://readme-typing-svg.herokuapp.com/demo/ -->## 今年汇总 ✨
+
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=liyupi&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liyupi&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
 
 
