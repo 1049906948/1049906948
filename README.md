@@ -41,5 +41,3 @@ Here are some ideas to get you started:
 
 <!-- code.gif -->
 <img align="right" alt="GIF" src="https://github.com/pudongping/pudongping/blob/main/code.gif?raw=true" width="500" height="320" />
-
-
